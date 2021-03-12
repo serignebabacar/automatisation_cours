@@ -10,7 +10,7 @@ public class Exercice1 {
 			System.out.println(a + " == " + b);
 		}
 	}
-
+	//test
 	public static void main(String[] args) {
 		maximumNumber(-0, +0);
 		maximumNumber(+1, -1);
